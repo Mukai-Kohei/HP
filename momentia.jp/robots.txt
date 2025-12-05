@@ -1,0 +1,27 @@
+# *
+User-agent: *
+Disallow: /member/
+Disallow: /member/*
+Disallow: /sandbox/
+Disallow: /sandbox/*
+Disallow: /callback/
+Disallow: /sign-up/
+Disallow: /sign-out/
+Disallow: /consent-beyondfree/
+Disallow: /email-exist/
+Disallow: /blocked/
+Disallow: /unknown-error/
+Disallow: /facebook-sign-up-error/
+Disallow: /404/
+Disallow: /withdraw/completed/
+Disallow: /app/habee/invitation/
+
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://momentia.jp
+
+# Sitemaps
+Sitemap: https://momentia.jp/sitemap.xml
