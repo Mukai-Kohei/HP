@@ -14,14 +14,14 @@ Disallow: /unknown-error/
 Disallow: /facebook-sign-up-error/
 Disallow: /404/
 Disallow: /withdraw/completed/
-Disallow: /app/habee/invitation/
+Distml: /app/habee/invitation/
 
 # *
 User-agent: *
 Allow: /
 
 # Host
-Host: https://momentia.jp
+Host: https://kogei.jp
 
 # Sitemaps
-Sitemap: https://momentia.jp/sitemap.xml
+Sitemap: https://kogei.jp/sitemap.xml
